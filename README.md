@@ -2,7 +2,7 @@
 
 🚀 MERN Stack Developer | B.Tech CSE Student (2022–2026)
 
-I build full-stack web applications using **MongoDB, Express.js, React.js, and Node.js**. Currently doing my Full Stack Development internship with **CodeAlpha**.
+I build full-stack web applications using **MongoDB, Express.js, React.js, and Node.js**. Completed Full Stack Development internships with **CodeAlpha** and **Cognifyz**, building full-stack MERN projects.
 
 ## 🔧 Tech Stack
 - **Frontend:** React.js, HTML, CSS, JavaScript
@@ -28,12 +28,12 @@ Full-stack ChatGPT-style chatbot with authentication, light/dark theme, and voic
 🔗 [Live Demo](https://chatsphere-ai-frontend.onrender.com)
 
 ### [ShopEasy](https://github.com/Vishal912026/CodeAlpha_Ecommerce_Store) — E-Commerce Store
-Full-stack e-commerce app with JWT auth, product catalog, cart, and order checkout. *(CodeAlpha Internship — Task 1)*
+Full-stack e-commerce app with JWT auth, product catalog, cart, and order checkout. *(CodeAlpha Internship)*
 `Node.js` `Express.js` `MongoDB` `JavaScript`
 🔗 [Live Demo](https://dancing-crumble-b95745.netlify.app)
 
 ### [TaskBoard](https://github.com/Vishal912026/CodeAlpha_Project_Management_Tool) — Project Management Tool
-Trello-style project management app: create projects, assign tasks, comment, and track progress on a Kanban board. *(CodeAlpha Internship — Task 3)*
+Trello-style project management app: create projects, assign tasks, comment, and track progress on a Kanban board. *(CodeAlpha Internship)*
 `Node.js` `Express.js` `MongoDB` `JWT Auth`
 🔗 [Live Demo](https://codealpha-project-management-tool.netlify.app)
 
@@ -43,5 +43,4 @@ Client-side resume analyser that scores your resume against a job description an
 🔗 [Live Demo](https://vishal912026.github.io/AI-Resume-Analyser/)
 
 ## 📫 Connect with me
-- LinkedIn: [your-linkedin-url]
-- Email: [your-email]
+- Email: vishalprajapati6037@gmail.com
